@@ -41,4 +41,5 @@
 
 
 
+    <description>A helper for loading images over HTTP into ImageViews and AdapterViews with support for persistent and in-memory caching.</description>
 </project>

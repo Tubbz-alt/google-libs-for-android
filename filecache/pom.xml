@@ -35,4 +35,5 @@
 
 
 
+    <description>Classes for implementing a file-based cache for {@link java.net.HttpURLConnection}.</description>
 </project>
